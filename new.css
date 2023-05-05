@@ -1,0 +1,90 @@
+body{background-color: rgb(119, 136, 141);}
+.a{color: blueviolet;
+text-align: center;
+text-decoration:underline;
+letter-spacing: 3px;
+top: 10px;
+}
+.b{font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 30px;
+  font-weight: 800;
+  width: 600px;
+  height: 100px;
+}
+.c div{
+  text-align: center;
+  padding: 25px;
+  margin: 25px;
+  display: inline-block;
+  font-style: initial;
+  text-transform: capitalize;
+  line-height: 2px;
+  height: 100px;
+}
+ .n{color: blue;
+  position: sticky;
+  z-index: 1;
+  right:70px;
+}
+ .o{color: #422980;
+  position: relative;
+  z-index: 2;
+  top: 50px;
+}
+ .s{color: red;}
+ .x{color: crimson;
+  position: relative;
+  z-index: 4;
+  top: 50px;
+}
+.m div{
+  color: #120437;
+  text-decoration: dotted;
+  text-transform: capitalize;
+}
+.i{font-size: x-large;
+  color: blue;
+  background-color: rgb(169, 169, 203);
+  text-indent: 7px;
+  font-style: oblique;
+  inline-size: 250px;
+  margin: auto;
+  text-align: center;
+}
+.f{font-weight: 800;
+  color: green;
+  background-color: rgb(175, 210, 141);
+  text-indent: 7px;
+  font-style: oblique;
+  inline-size: 250px;
+}
+.g{
+  font-weight: 800;
+  color: rgb(165, 16, 16);
+  background-color: rgb(182, 117, 160);
+  text-indent: 7PX;
+  font-style: oblique;
+  inline-size: 270px;
+  margin: auto;
+  text-align: center;
+}
+.h{
+  font-weight: 800;
+  font-style: italic;
+  color: #422980;
+  background-color: rgb(117, 182, 142);
+  text-indent: 7px;
+  font-style: oblique;
+  inline-size: 270px;
+}
+.k{font-weight: 900;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  color: navy;
+  font-style: italic;
+  font-size: x-large;
+
+}
